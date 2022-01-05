@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="24000" started-at="2022-01-05T10:43:34Z" finished-at="2022-01-05T10:43:58Z">
+    <groups>
+    </groups>
+    <test name="SeleniumLevel1" duration-ms="24000" started-at="2022-01-05T10:43:34Z" finished-at="2022-01-05T10:43:58Z">
+      <class name="Railway.TC17">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Railway.TC17@6e8dacdf]" name="beforeMethod" is-config="true" duration-ms="4402" started-at="2022-01-05T10:43:35Z" finished-at="2022-01-05T10:43:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC17(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:Railway.TC17@6e8dacdf]" name="TC17" duration-ms="17880" started-at="2022-01-05T10:43:39Z" description="TC17 - User can cancel a ticket" data-provider="data-provider" finished-at="2022-01-05T10:43:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Constant.SEVEN_DAYS_AFTER_CURRENT_DAY]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nha Trang]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sài Gòn]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Soft seat with air conditioner]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1/27/2022]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Sài Gòn]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Phan Thiết]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Hard bed]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC17 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Railway.TC17@6e8dacdf]" name="afterMethod" is-config="true" duration-ms="1409" started-at="2022-01-05T10:43:57Z" finished-at="2022-01-05T10:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Railway.TC17 -->
+    </test> <!-- SeleniumLevel1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>

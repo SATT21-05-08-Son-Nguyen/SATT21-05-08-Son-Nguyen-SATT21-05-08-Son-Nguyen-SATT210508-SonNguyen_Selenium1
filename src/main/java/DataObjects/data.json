@@ -1,0 +1,45 @@
+{
+  "TC14":
+  {
+    "Depart date": "Constant.SEVEN_DAYS_AFTER_CURRENT_DAY",
+    "Depart from": "Nha Trang",
+    "Arrive at": "Sài Gòn",
+    "Seat type": "Soft seat with air conditioner",
+    "Ticket amount": 5
+  },
+
+  "TC15":
+  {
+    "Depart Station": "Đà Nẵng",
+    "Arrive Station": "Sài Gòn",
+    "HS": 310000,
+    "SS": 335000,
+    "SSC": 360000,
+    "HB": 410000,
+    "SB": 460000,
+    "SBC": 510000
+  },
+
+  "TC16":
+  {
+    "Depart date": "Constant.SEVEN_DAYS_AFTER_CURRENT_DAY",
+    "Depart from": "Phan Thiết",
+    "Arrive at": "Sài Gòn",
+    "Seat type": "Soft seat",
+    "Ticket amount": 1
+  },
+
+  "TC17":
+  {
+    "Depart date 1": "Constant.SEVEN_DAYS_AFTER_CURRENT_DAY",
+    "Depart from 1": "Nha Trang",
+    "Arrive at 1": "Sài Gòn",
+    "Seat type 1": "Soft seat with air conditioner",
+    "Ticket amount 1": 10,
+    "Depart date 2": "1/27/2022",
+    "Depart from 2": "Sài Gòn",
+    "Arrive at 2": "Phan Thiết",
+    "Seat type 2": "Hard bed",
+    "Ticket amount 2": 1
+  }
+}
